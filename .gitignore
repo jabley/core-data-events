@@ -1,0 +1,6 @@
+build
+*.pbxuser
+*.mode1v3
+DoxygenDocs.docset
+.DS_Store
+*.rbc
